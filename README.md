@@ -6,6 +6,9 @@ This Python program evaluates the strength of a password based on several criter
 Features
 
 Password Strength Assessment: The tool checks for length, presence of uppercase and lowercase letters, numbers, and special characters in the password.
+
 Feedback on Password Strength: Users receive a message indicating whether their password is very strong, strong, moderate, or weak.
-Password Masking: For privacy, the tool masks the password input before displaying it.
+
+Password Masking : or privacy, the tool masks the password input before displaying it.
+
 Security Tips: The program provides tips for creating secure passwords and maintaining good password hygiene.
